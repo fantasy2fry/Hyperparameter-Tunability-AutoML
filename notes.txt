@@ -1,0 +1,9 @@
+identycznie srodowisko na dwoch kompach 
+takie same wersje pythona i taki sam python
+
+klasyfikacja binarna
+
+wybieramy 4 zbiory zdanych
+wybrac 3 modele uczenia maszynowego
+
+takie same siatki hiperparametrow
