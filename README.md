@@ -11,6 +11,8 @@ The goal of this project is to analyze the tunability of hyperparameters of thre
 
 ## Datasets
 The analysis will be conducted on at least four different datasets. Specific datasets will be chosen to represent a variety of data types and structures. Details about each dataset will be documented in the `data/` directory.
+- [Raisin](https://www.kaggle.com/datasets/nimapourmoradi/raisin-binary-classification?resource=download)
+- [Credit Score](https://www.kaggle.com/datasets/conorsully1/credit-score) 
 
 ## Hyperparameter Tuning Methods
 The project involves the following hyperparameter tuning techniques:
